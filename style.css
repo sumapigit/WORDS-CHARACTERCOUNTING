@@ -1,0 +1,26 @@
+body{
+    padding: 50px 100px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 0;
+    font-weight: 25;
+}
+
+
+#textbox{
+    width: 99.3%;
+}
+p{
+    color: white;
+    background-color: blueviolet;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    font-weight: 25;
+    
+}
